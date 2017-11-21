@@ -1,0 +1,39 @@
+c:\users\dimitrije\documents\visual studio 2015\Projects\TeorijaIgara1.0\Podaci\obj\Debug\Podaci.csprojResolveAssemblyReference.cache
+c:\users\dimitrije\documents\visual studio 2015\Projects\TeorijaIgara1.0\Podaci\bin\Debug\Podaci.dll
+c:\users\dimitrije\documents\visual studio 2015\Projects\TeorijaIgara1.0\Podaci\bin\Debug\Podaci.pdb
+c:\users\dimitrije\documents\visual studio 2015\Projects\TeorijaIgara1.0\Podaci\obj\Debug\Podaci.dll
+c:\users\dimitrije\documents\visual studio 2015\Projects\TeorijaIgara1.0\Podaci\obj\Debug\Podaci.pdb
+G:\TeorijaIgara1.0\Podaci\bin\Debug\Podaci.dll
+G:\TeorijaIgara1.0\Podaci\bin\Debug\Podaci.pdb
+G:\TeorijaIgara1.0\Podaci\obj\Debug\Podaci.csprojResolveAssemblyReference.cache
+G:\TeorijaIgara1.0\Podaci\obj\Debug\Podaci.dll
+G:\TeorijaIgara1.0\Podaci\obj\Debug\Podaci.pdb
+D:\TeorijaIgara1.0\Podaci\bin\Debug\Podaci.dll
+D:\TeorijaIgara1.0\Podaci\bin\Debug\Podaci.pdb
+D:\TeorijaIgara1.0\Podaci\obj\Debug\Podaci.csprojResolveAssemblyReference.cache
+D:\TeorijaIgara1.0\Podaci\obj\Debug\Podaci.dll
+D:\TeorijaIgara1.0\Podaci\obj\Debug\Podaci.pdb
+C:\Users\Dimitrije\Desktop\TeorijaIgara1.0\Podaci\bin\Debug\Podaci.dll
+C:\Users\Dimitrije\Desktop\TeorijaIgara1.0\Podaci\bin\Debug\Podaci.pdb
+C:\Users\Dimitrije\Desktop\TeorijaIgara1.0\Podaci\obj\Debug\Podaci.csprojResolveAssemblyReference.cache
+C:\Users\Dimitrije\Desktop\TeorijaIgara1.0\Podaci\obj\Debug\Podaci.dll
+C:\Users\Dimitrije\Desktop\TeorijaIgara1.0\Podaci\obj\Debug\Podaci.pdb
+C:\Users\Dimitrije\Desktop\TI3\TeorijaIgara1.0\Podaci\bin\Debug\Podaci.dll
+C:\Users\Dimitrije\Desktop\TI3\TeorijaIgara1.0\Podaci\bin\Debug\Podaci.pdb
+C:\Users\Dimitrije\Desktop\TI3\TeorijaIgara1.0\Podaci\obj\Debug\Podaci.csprojResolveAssemblyReference.cache
+C:\Users\Dimitrije\Desktop\TI3\TeorijaIgara1.0\Podaci\obj\Debug\Podaci.dll
+C:\Users\Dimitrije\Desktop\TI3\TeorijaIgara1.0\Podaci\obj\Debug\Podaci.pdb
+C:\Users\Nemanja\Desktop\New folder\TI3\TeorijaIgara1.0\Podaci\bin\Debug\Podaci.dll
+C:\Users\Nemanja\Desktop\New folder\TI3\TeorijaIgara1.0\Podaci\bin\Debug\Podaci.pdb
+C:\Users\Nemanja\Desktop\New folder\TI3\TeorijaIgara1.0\Podaci\obj\Debug\Podaci.csprojResolveAssemblyReference.cache
+C:\Users\Nemanja\Desktop\New folder\TI3\TeorijaIgara1.0\Podaci\obj\Debug\Podaci.Properties.Resources.resources
+C:\Users\Nemanja\Desktop\New folder\TI3\TeorijaIgara1.0\Podaci\obj\Debug\Podaci.csproj.GenerateResource.Cache
+C:\Users\Nemanja\Desktop\New folder\TI3\TeorijaIgara1.0\Podaci\obj\Debug\Podaci.dll
+C:\Users\Nemanja\Desktop\New folder\TI3\TeorijaIgara1.0\Podaci\obj\Debug\Podaci.pdb
+C:\Users\Dimitrije\Desktop\faks\PROJEKAT-TI\TeorijaIgara1.0\Podaci\bin\Debug\Podaci.dll
+C:\Users\Dimitrije\Desktop\faks\PROJEKAT-TI\TeorijaIgara1.0\Podaci\bin\Debug\Podaci.pdb
+C:\Users\Dimitrije\Desktop\faks\PROJEKAT-TI\TeorijaIgara1.0\Podaci\obj\Debug\Podaci.csprojResolveAssemblyReference.cache
+C:\Users\Dimitrije\Desktop\faks\PROJEKAT-TI\TeorijaIgara1.0\Podaci\obj\Debug\Podaci.Properties.Resources.resources
+C:\Users\Dimitrije\Desktop\faks\PROJEKAT-TI\TeorijaIgara1.0\Podaci\obj\Debug\Podaci.csproj.GenerateResource.Cache
+C:\Users\Dimitrije\Desktop\faks\PROJEKAT-TI\TeorijaIgara1.0\Podaci\obj\Debug\Podaci.dll
+C:\Users\Dimitrije\Desktop\faks\PROJEKAT-TI\TeorijaIgara1.0\Podaci\obj\Debug\Podaci.pdb

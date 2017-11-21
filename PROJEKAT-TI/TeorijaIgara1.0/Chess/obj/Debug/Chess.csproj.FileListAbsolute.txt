@@ -1,0 +1,80 @@
+c:\users\dimitrije\documents\visual studio 2015\Projects\TeorijaIgara1.0\Chess\bin\Debug\Chess.exe.config
+c:\users\dimitrije\documents\visual studio 2015\Projects\TeorijaIgara1.0\Chess\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+c:\users\dimitrije\documents\visual studio 2015\Projects\TeorijaIgara1.0\Chess\obj\Debug\Chess.Form1.resources
+c:\users\dimitrije\documents\visual studio 2015\Projects\TeorijaIgara1.0\Chess\obj\Debug\Chess.Properties.Resources.resources
+c:\users\dimitrije\documents\visual studio 2015\Projects\TeorijaIgara1.0\Chess\obj\Debug\Chess.csproj.GenerateResource.Cache
+c:\users\dimitrije\documents\visual studio 2015\Projects\TeorijaIgara1.0\Chess\bin\Debug\Chess.exe
+c:\users\dimitrije\documents\visual studio 2015\Projects\TeorijaIgara1.0\Chess\bin\Debug\Chess.pdb
+c:\users\dimitrije\documents\visual studio 2015\Projects\TeorijaIgara1.0\Chess\bin\Debug\Podaci.dll
+c:\users\dimitrije\documents\visual studio 2015\Projects\TeorijaIgara1.0\Chess\bin\Debug\Podaci.pdb
+c:\users\dimitrije\documents\visual studio 2015\Projects\TeorijaIgara1.0\Chess\obj\Debug\Chess.exe
+c:\users\dimitrije\documents\visual studio 2015\Projects\TeorijaIgara1.0\Chess\obj\Debug\Chess.pdb
+G:\TeorijaIgara1.0\Chess\bin\Debug\Chess.exe.config
+G:\TeorijaIgara1.0\Chess\obj\Debug\Chess.exe
+G:\TeorijaIgara1.0\Chess\obj\Debug\Chess.pdb
+G:\TeorijaIgara1.0\Chess\bin\Debug\Chess.exe
+G:\TeorijaIgara1.0\Chess\bin\Debug\Chess.pdb
+G:\TeorijaIgara1.0\Chess\bin\Debug\Podaci.dll
+G:\TeorijaIgara1.0\Chess\bin\Debug\Podaci.pdb
+G:\TeorijaIgara1.0\Chess\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+G:\TeorijaIgara1.0\Chess\obj\Debug\Chess.Form1.resources
+G:\TeorijaIgara1.0\Chess\obj\Debug\Chess.Properties.Resources.resources
+G:\TeorijaIgara1.0\Chess\obj\Debug\Chess.csproj.GenerateResource.Cache
+D:\TeorijaIgara1.0\Chess\bin\Debug\Chess.exe.config
+D:\TeorijaIgara1.0\Chess\obj\Debug\Chess.exe
+D:\TeorijaIgara1.0\Chess\obj\Debug\Chess.pdb
+D:\TeorijaIgara1.0\Chess\bin\Debug\Chess.exe
+D:\TeorijaIgara1.0\Chess\bin\Debug\Chess.pdb
+D:\TeorijaIgara1.0\Chess\bin\Debug\Podaci.dll
+D:\TeorijaIgara1.0\Chess\bin\Debug\Podaci.pdb
+D:\TeorijaIgara1.0\Chess\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+D:\TeorijaIgara1.0\Chess\obj\Debug\Chess.Form1.resources
+D:\TeorijaIgara1.0\Chess\obj\Debug\Chess.Properties.Resources.resources
+D:\TeorijaIgara1.0\Chess\obj\Debug\Chess.csproj.GenerateResource.Cache
+C:\Users\Dimitrije\Desktop\TeorijaIgara1.0\Chess\bin\Debug\Chess.exe.config
+C:\Users\Dimitrije\Desktop\TeorijaIgara1.0\Chess\obj\Debug\Chess.exe
+C:\Users\Dimitrije\Desktop\TeorijaIgara1.0\Chess\obj\Debug\Chess.pdb
+C:\Users\Dimitrije\Desktop\TeorijaIgara1.0\Chess\bin\Debug\Chess.exe
+C:\Users\Dimitrije\Desktop\TeorijaIgara1.0\Chess\bin\Debug\Chess.pdb
+C:\Users\Dimitrije\Desktop\TeorijaIgara1.0\Chess\bin\Debug\Podaci.dll
+C:\Users\Dimitrije\Desktop\TeorijaIgara1.0\Chess\bin\Debug\Podaci.pdb
+C:\Users\Dimitrije\Desktop\TeorijaIgara1.0\Chess\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+C:\Users\Dimitrije\Desktop\TeorijaIgara1.0\Chess\obj\Debug\Chess.Form1.resources
+C:\Users\Dimitrije\Desktop\TeorijaIgara1.0\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\Dimitrije\Desktop\TeorijaIgara1.0\Chess\obj\Debug\Chess.csproj.GenerateResource.Cache
+C:\Users\Dimitrije\Desktop\TI3\TeorijaIgara1.0\Chess\bin\Debug\Chess.exe.config
+C:\Users\Dimitrije\Desktop\TI3\TeorijaIgara1.0\Chess\obj\Debug\Chess.exe
+C:\Users\Dimitrije\Desktop\TI3\TeorijaIgara1.0\Chess\obj\Debug\Chess.pdb
+C:\Users\Dimitrije\Desktop\TI3\TeorijaIgara1.0\Chess\bin\Debug\Chess.exe
+C:\Users\Dimitrije\Desktop\TI3\TeorijaIgara1.0\Chess\bin\Debug\Chess.pdb
+C:\Users\Dimitrije\Desktop\TI3\TeorijaIgara1.0\Chess\bin\Debug\Podaci.dll
+C:\Users\Dimitrije\Desktop\TI3\TeorijaIgara1.0\Chess\bin\Debug\Podaci.pdb
+C:\Users\Dimitrije\Desktop\TI3\TeorijaIgara1.0\Chess\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+C:\Users\Dimitrije\Desktop\TI3\TeorijaIgara1.0\Chess\obj\Debug\Chess.Form1.resources
+C:\Users\Dimitrije\Desktop\TI3\TeorijaIgara1.0\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\Dimitrije\Desktop\TI3\TeorijaIgara1.0\Chess\obj\Debug\Chess.csproj.GenerateResource.Cache
+C:\Users\Nemanja\Desktop\New folder\TI3\TeorijaIgara1.0\Chess\bin\Debug\Chess.exe.config
+C:\Users\Nemanja\Desktop\New folder\TI3\TeorijaIgara1.0\Chess\obj\Debug\Chess.exe
+C:\Users\Nemanja\Desktop\New folder\TI3\TeorijaIgara1.0\Chess\obj\Debug\Chess.pdb
+C:\Users\Nemanja\Desktop\New folder\TI3\TeorijaIgara1.0\Chess\bin\Debug\Chess.exe
+C:\Users\Nemanja\Desktop\New folder\TI3\TeorijaIgara1.0\Chess\bin\Debug\Chess.pdb
+C:\Users\Nemanja\Desktop\New folder\TI3\TeorijaIgara1.0\Chess\bin\Debug\Podaci.dll
+C:\Users\Nemanja\Desktop\New folder\TI3\TeorijaIgara1.0\Chess\bin\Debug\Podaci.pdb
+C:\Users\Nemanja\Desktop\New folder\TI3\TeorijaIgara1.0\Chess\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+C:\Users\Nemanja\Desktop\New folder\TI3\TeorijaIgara1.0\Chess\obj\Debug\Chess.Form1.resources
+C:\Users\Nemanja\Desktop\New folder\TI3\TeorijaIgara1.0\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\Nemanja\Desktop\New folder\TI3\TeorijaIgara1.0\Chess\obj\Debug\Chess.csproj.GenerateResource.Cache
+C:\Users\Dimitrije\Desktop\PROJEKAT-TI\TeorijaIgara1.0\Chess\bin\Debug\Chess.exe.config
+C:\Users\Dimitrije\Desktop\PROJEKAT-TI\TeorijaIgara1.0\Chess\obj\Debug\Chess.exe
+C:\Users\Dimitrije\Desktop\PROJEKAT-TI\TeorijaIgara1.0\Chess\obj\Debug\Chess.pdb
+C:\Users\Dimitrije\Desktop\faks\PROJEKAT-TI\TeorijaIgara1.0\Chess\bin\Debug\Chess.exe.config
+C:\Users\Dimitrije\Desktop\faks\PROJEKAT-TI\TeorijaIgara1.0\Chess\obj\Debug\Chess.exe
+C:\Users\Dimitrije\Desktop\faks\PROJEKAT-TI\TeorijaIgara1.0\Chess\obj\Debug\Chess.pdb
+C:\Users\Dimitrije\Desktop\faks\PROJEKAT-TI\TeorijaIgara1.0\Chess\bin\Debug\Chess.exe
+C:\Users\Dimitrije\Desktop\faks\PROJEKAT-TI\TeorijaIgara1.0\Chess\bin\Debug\Chess.pdb
+C:\Users\Dimitrije\Desktop\faks\PROJEKAT-TI\TeorijaIgara1.0\Chess\bin\Debug\Podaci.dll
+C:\Users\Dimitrije\Desktop\faks\PROJEKAT-TI\TeorijaIgara1.0\Chess\bin\Debug\Podaci.pdb
+C:\Users\Dimitrije\Desktop\faks\PROJEKAT-TI\TeorijaIgara1.0\Chess\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+C:\Users\Dimitrije\Desktop\faks\PROJEKAT-TI\TeorijaIgara1.0\Chess\obj\Debug\Chess.Form1.resources
+C:\Users\Dimitrije\Desktop\faks\PROJEKAT-TI\TeorijaIgara1.0\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\Dimitrije\Desktop\faks\PROJEKAT-TI\TeorijaIgara1.0\Chess\obj\Debug\Chess.csproj.GenerateResource.Cache
